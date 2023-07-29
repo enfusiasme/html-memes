@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: normal;
+    font-family: 'Handjet', cursive;
+
+}
+div {
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 5%;
+    text-align: center;
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+}
+
+img {
+    height: 300px;
+    width: 100%;
+    border: 5px solid white;
+}
+
+h2 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
